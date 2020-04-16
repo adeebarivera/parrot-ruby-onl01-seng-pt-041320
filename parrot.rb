@@ -1,6 +1,4 @@
-def
-change_my_name
-name = "parrot"
-puts name.reverse
-return name 
+def parrot (phrase ="Squawk")
+  puts phrase
+  return phrase
 end
